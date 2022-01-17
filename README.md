@@ -1,5 +1,5 @@
 # PortfolioWebsiteComplete
-Portfolio website complete -Concluído
+Portfolio website complete - Concluído
 
 Nesse projeto, aprendi utilizar variáveis em css, o que resultou em melhor agilidade no desenvolvimento. 
 Aprendi também a comentar o início de cada seção, tonando o código mais legível.
